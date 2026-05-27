@@ -23,7 +23,7 @@ client = OpenAI(
 )
 
 if "dark_mode" not in st.session_state:
-    st.session_state.dark_mode = True
+    st.session_state.dark_mode = False
 
 # CSS 
 def get_css(dark):
