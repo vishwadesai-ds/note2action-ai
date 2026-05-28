@@ -1,0 +1,11 @@
+Q2 Project Review Meeting
+Date: 15 June 2025
+Attendees: Ravi (PM), Sneha (Dev Lead), Arjun (Finance), Priya (Design)
+
+- Ravi said the backend API is delayed by 2 weeks due to vendor issue
+- Sneha to fix the login bug by end of this week, high priority
+- Arjun needs budget approval for cloud servers, deadline is 20 June, risk of project pause if delayed
+- Priya to share updated UI mockups by Monday
+- Next sprint planning on 18 June, Ravi to send calendar invite
+- Arjun flagged that invoices for March still unpaid, needs follow up with accounts team
+- Team agreed to daily 15-min standups starting Monday

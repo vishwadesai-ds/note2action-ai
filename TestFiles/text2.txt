@@ -1,0 +1,10 @@
+Weekly Team Sync — 20 June 2025
+Attendees: Rahul (Manager), Neha (Marketing), Arjun (Dev), Priya (Design)
+
+- Arjun to finish dashboard feature by June 25, currently blocked on API keys from Rahul
+- Neha to send June newsletter draft for review by Wednesday
+- Priya to redesign the onboarding screen, share by Friday EOD
+- Rahul to schedule 1-on-1s with all team members before June 30
+- Product launch pushed to July 10 — Neha to update social media calendar
+- Team agreed to move standup from 9am to 10am starting Monday
+- Arjun flagged: staging server down since yesterday, Rahul to escalate to IT today HIGH PRIORITY
