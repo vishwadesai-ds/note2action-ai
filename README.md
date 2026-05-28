@@ -3,7 +3,7 @@
 Turn raw meeting notes into structured Minutes of Meeting (MoM) using Vision AI + LLMs.
 
 🚀 Live Demo
-Streamlit App: https://note2action-ai.streamlit.app/
+Streamlit App: [View->](https://note2action-ai.streamlit.app/)
 
 📌 Problem Statement
 
@@ -57,17 +57,7 @@ Language	Python
 
 🧠 AI Workflow
 
-Meeting Notes
-      ↓
-Document/Image Processing
-      ↓
-Vision + Text Extraction
-      ↓
-LLM Prompting
-      ↓
-Structured MoM Generation
-      ↓
-DOCX Export + Dashboard Metrics
+Meeting Notes -> Document/Image Processing -> Vision + Text Extraction -> LLM Prompting -> Structured MoM Generation -> DOCX Export + Dashboard Metrics
 
 📊 Generated Output
 
@@ -109,8 +99,9 @@ python-dotenv
 
 🛠️ Test Files Folder
 
-where you will find files to test your application
+Where you will find files to test your application [Folder->](TestFiles/)
 
 👤 Author
 
 Vishwa Desai
+- LinkedIn: [View->](https://www.linkedin.com/in/vishwa-desai-ds/)
