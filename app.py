@@ -32,7 +32,7 @@ def get_css(dark):
         :root {
             --bg:        #0a0f0a;
             --bg2:       #111a11;
-            --bg3:       transparent;
+            --bg3:       #162116;
             --card-bg:   transparent;
             --border:    #2a3d2a;
             --text:      #e8f5e8;
@@ -237,6 +237,38 @@ html, body, [class*="css"] {{
     background: transparent !important;
 }}
 
+[data-testid="stTextArea"] textarea {{
+    background: var(--bg2) !important;
+    background-color: var(--bg2) !important;
+    color: var(--text) !important;
+    border: 1px solid var(--border) !important;
+    border-radius: 10px !important;
+}}
+
+/* Outer wrapper */
+[data-testid="stTextArea"] > div {{
+    background: var(--bg2) !important;
+    background-color: var(--bg2) !important;
+}}
+
+/* Baseweb wrapper */
+[data-testid="stTextArea"] div[data-baseweb="base-input"] {{
+    background: var(--bg2) !important;
+    background-color: var(--bg2) !important;
+}}
+
+[data-testid="stTextArea"] label {{
+    color: var(--text2) !important;
+}}
+
+[data-testid="stTextArea"] div {{
+    background: var(--card-bg) !important;
+}}
+
+[data-testid="stTextArea"] label {{
+    color: var(--text2) !important;
+}}
+
 [data-testid="stAlert"] div, [data-testid="stAlert"] p {{
     color: var(--text) !important;
     opacity: 1 !important;
@@ -254,7 +286,7 @@ html, body, [class*="css"] {{
 }}
 
 [data-testid="stFileUploader"] section {{
-    background: var(--bg3) !important;
+    background: var(--bg2) !important;
     border-radius: 14px !important;
     border: 1px solid var(--border) !important;
 }}
@@ -300,6 +332,54 @@ html, body, [class*="css"] {{
     color: white !important;
     border: 1px solid #22c55e !important;
     border-radius: 16px !important;
+}}
+
+[data-testid="stFileUploaderDropzone"]:hover {{
+    border: 2px dashed var(--accent) !important;
+    background: var(--bg2) !important;
+}}
+
+[data-testid="stFileUploaderDropzone"]:hover * {{
+    color: var(--text2) !important;
+}}
+
+[data-testid="stFileUploaderDropzone"][data-drag="true"] {{
+    border: 2px dashed var(--accent) !important;
+    background: var(--bg2) !important;
+}}
+
+[data-testid="stFileUploaderDropzone"] section {{
+    border: none !important;
+    box-shadow: none !important;
+}}
+
+[data-testid="stFileUploaderDropzone"] span,
+[data-testid="stFileUploaderDropzone"] p,
+[data-testid="stFileUploaderDropzone"] small,
+[data-testid="stFileUploaderDropzone"] div {{
+    color: var(--text2) !important;
+}}
+
+/* Kill ALL red borders inside uploader */
+[data-testid="stFileUploaderDropzone"] * {{
+    border-color: var(--border) !important;
+    outline: none !important;
+    box-shadow: none !important;
+}}
+
+/* Inner drag container */
+[data-testid="stFileUploaderDropzone"] > div > div {{
+    border: none !important;
+    background: var(--bg2) !important;
+}}
+
+[data-testid="stFileUploaderDropzone"] [data-testid="stbaseButton-secondary"] {{
+    border: none !important;
+}}
+
+/* Force green themed border */
+[data-testid="stFileUploaderDropzone"] {{
+    border: 2px dashed var(--accent2) !important;
 }}
 
 .stFileChip {{
@@ -374,8 +454,27 @@ html, body, [class*="css"] {{
 }}
 
 [data-testid="stFileUploaderDropzone"] {{
-    background: var(--bg3) !important;
+    background: var(--bg2) !important;
+    background-color: var(--bg2) !important;
     border-radius: 14px !important;
+    border: 1px solid var(--border) !important;
+}}
+
+[data-testid="stFileUploaderDropzone"] > div {{
+    background: var(--bg2) !important;
+    background-color: var(--bg2) !important;
+}}
+
+[data-testid="stFileUploaderDropzoneInstructions"] {{
+    background: var(--bg2) !important;
+    color: var(--text) !important;
+}}
+
+[data-testid="stFileUploaderDropzoneInstructions"] span,
+[data-testid="stFileUploaderDropzoneInstructions"] div,
+[data-testid="stFileUploaderDropzoneInstructions"] small,
+[data-testid="stFileUploaderDropzoneInstructions"] p {{
+    color: var(--text2) !important;
 }}
 
 [data-testid="stFileUploaderFile"] {{
@@ -597,6 +696,44 @@ html, body, [data-testid="stAppViewContainer"] {{
 ::-webkit-scrollbar-thumb:hover {{ background: var(--accent); }}
 
 #MainMenu, footer, header {{ visibility: hidden; }}
+
+/* ===== FINAL FILE UPLOADER BORDER FIX ===== */
+
+[data-testid="stFileUploaderDropzone"],
+[data-testid="stFileUploaderDropzone"] * {{
+    border-color: transparent !important;
+    box-shadow: none !important;
+}}
+
+[data-testid="stFileUploader"] {{
+    border: 2px dashed var(--accent2) !important;
+    border-radius: 16px !important;
+}}
+
+[data-testid="stFileUploaderDropzone"] {{
+    background: var(--bg2) !important;
+    border: none !important;
+    outline: none !important;
+}}
+
+[data-testid="stFileUploaderDropzone"] > div,
+[data-testid="stFileUploaderDropzone"] > div > div,
+[data-testid="stFileUploaderDropzone"] > div > div > div,
+[data-testid="stFileUploaderDropzone"] section,
+[data-testid="stFileUploaderDropzone"] article {{
+    border: none !important;
+    outline: none !important;
+    background: var(--bg2) !important;
+    box-shadow: none !important;
+}}
+
+[data-testid="stFileUploaderDropzone"]:focus,
+[data-testid="stFileUploaderDropzone"]:focus-visible,
+[data-testid="stFileUploaderDropzone"]:active {{
+    border: none !important;
+    outline: none !important;
+    box-shadow: none !important;
+}}
 </style>
 """, unsafe_allow_html=True)
 

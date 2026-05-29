@@ -1,0 +1,115 @@
+APEX INFRASTRUCTURE PVT. LTD.
+Monthly Project Review & Cross-Department Sync
+Date: 14 June 2025 | Time: 10:00 AM – 12:30 PM
+Venue: Boardroom 3, HQ Bangalore
+
+Attendees:
+- Rajesh Nair (Project Director) — Chair
+- Sunita Rao (Finance Head)
+- Deepak Mehta (Site Engineer – Block A & B)
+- Kavitha Sharma (HR Manager)
+- Arjun Pillai (IT & Systems)
+- Priya Menon (Client Relations)
+- Mohan Das (Safety Officer)
+- Ramesh Iyer (Procurement)
+
+Absent: Legal Head (Vikram Seth) — notes to be shared
+
+---
+
+AGENDA 1 — CONSTRUCTION PROGRESS UPDATE
+
+Deepak reported Block A RCC work is 70% complete but 11 days behind schedule.
+Root cause: delayed delivery of TMT steel bars from vendor Shree Metals.
+Ramesh to follow up with Shree Metals and get written commitment for delivery by June 18. If not received by EOD June 16, Ramesh to activate backup vendor Tata Steel immediately.
+Deepak to submit revised construction timeline to Rajesh by June 17 — HIGH PRIORITY.
+Block B waterproofing cannot start until Block A columns are inspected.
+Rajesh to schedule third-party structural inspection for Block A — target June 20. Rajesh to confirm inspector appointment by June 16.
+Mohan flagged that scaffolding on Level 4 has not been certified in 3 months — serious safety violation.
+Deepak to get scaffolding re-certified before any work resumes on Level 4. Deadline: June 15. HIGH PRIORITY — work on Level 4 suspended until done.
+2 workers found operating without helmets and harnesses on June 13.
+Mohan to issue formal warning letters to both workers by June 14 EOD.
+Deepak to conduct mandatory safety re-briefing for all 48 site workers by June 16.
+
+---
+
+AGENDA 2 — FINANCE & BUDGET REVIEW
+
+Sunita presented Q2 financials. Project spend is 14% over approved budget.
+Main overruns: logistics (+22%), labour (+9%), material wastage (+6%).
+Sunita to prepare detailed variance report with line-item breakdown — share with Rajesh and board by June 19.
+Budget reallocation request of ₹38 lakhs needs board approval.
+Sunita to prepare board note and submit to Rajesh for review by June 17. Board meeting is June 28 — this is a hard deadline.
+3 client invoices totalling ₹52 lakhs outstanding for 45+ days.
+Priya to personally call all 3 clients this week and get payment commitment in writing by June 18.
+Sunita to initiate legal notice process if payments not received by June 25.
+Ramesh flagged cement purchase order of ₹8.4 lakhs pending CFO approval since June 8.
+Sunita to approve or escalate by June 15 — project will halt without this material.
+
+---
+
+AGENDA 3 — CLIENT RELATIONS
+
+Priya reported client Horizon Realty has raised 3 formal concerns:
+1. Delay in handing over unit floor plans (was due May 30, still pending)
+2. Lift installation not started despite commitment
+3. Common area design not approved yet
+
+Priya to set up urgent call with Horizon Realty MD on June 16 or 17.
+Deepak to send updated floor plans for all 24 units to Priya by June 15 EOD.
+Rajesh to personally write to Horizon Realty MD with revised commitment dates by June 17.
+Lift vendor (Otis) contract to be signed — Arjun to send contract to legal team (Vikram) for review by June 15. Target signing date: June 20.
+Common area design deck — Priya to share client feedback with design consultant and get revised options by June 22.
+New client visit scheduled — Mr. Suresh Kapoor (potential buyer, 3 units) — site visit arranged for June 21.
+Priya to ensure Block C show flat is ready for viewing by June 20. Coordinate with Deepak.
+
+---
+
+AGENDA 4 — HR & MANPOWER
+
+Kavitha reported 6 contract labourers left site in past 2 weeks without notice.
+Kavitha to recruit 8 replacement workers through agency by June 20 to avoid further delays.
+2 senior engineer positions open since April — still unfilled.
+Kavitha to shortlist candidates and share with Rajesh by June 18. Final interviews to be done before June 28.
+Rajesh requested a morale and welfare review for all site staff — heat wave conditions on site.
+Kavitha to arrange drinking water stations, cooling zones and medical check-up camp on site by June 18.
+June payroll processing delayed — Kavitha to ensure all payroll is processed and disbursed by June 17 without fail. Workers are agitated. HIGH PRIORITY.
+Kavitha to also submit June manpower utilisation report to Rajesh by June 20.
+
+---
+
+AGENDA 5 — IT & SYSTEMS
+
+Arjun reported the project management software (Zoho Projects) has not been updated since April.
+All department heads to update task status in Zoho by June 16 EOD.
+Arjun to conduct 1-hour Zoho refresher training for all 8 team members on June 17 at 3pm.
+CCTV cameras on Block B site have been non-functional for 2 weeks — security risk.
+Arjun to get CCTV repaired or replaced by June 17. Escalate to vendor today.
+Server backup failure reported on June 12 — financial data was at risk.
+Arjun to submit IT incident report to Rajesh and Sunita by June 15.
+Arjun to implement automated daily backup by June 20 — no further delays acceptable.
+Drone survey of full site requested by Rajesh for progress documentation.
+Arjun to arrange drone operator and complete survey by June 22. Share footage with Rajesh and Priya.
+
+---
+
+AGENDA 6 — PROCUREMENT
+
+Ramesh reported 4 open purchase orders pending approval older than 10 days.
+Sunita and Rajesh to clear all pending POs in system by June 16.
+New vendor empanelment for electrical fittings — 3 vendors shortlisted.
+Ramesh to complete vendor evaluation and recommend 1 vendor to Rajesh by June 19.
+Sand and aggregate stock running critically low — estimated 5 days of supply remaining.
+Ramesh to place emergency order today June 14 and confirm delivery by June 17.
+Ramesh to also prepare monthly procurement tracker and share with all department heads by June 20.
+
+---
+
+NEXT STEPS & CLOSING
+
+Rajesh to circulate this MoM to all attendees and Vikram Seth by June 14 EOD.
+Next full review meeting: July 5, 2025, 10am, same venue.
+Rajesh reminded all owners: any item not updated by deadline must be escalated immediately — no silent slippage.
+
+Meeting closed at 12:28 PM.
+Minutes recorded by: Priya Menon
